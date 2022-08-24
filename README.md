@@ -7,8 +7,8 @@
 
 ## Tecnologias 💻
 
-<div style = "display: inline_block user-select: none pointer-events: none"><br/>
-    <image align="center" alt="html5" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<div style = "display: inline_block"><br/>
+    <image align="center" alt="html5" src="https://img.icons8.com/color/48/000000/html-5--v1.png" style = "user-select: none pointer-events: none"/>
     <image align="center" alt="css" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <image align="center" alt="js" src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
     <image align="center" alt="java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
