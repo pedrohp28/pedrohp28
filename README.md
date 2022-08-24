@@ -7,7 +7,7 @@
 
 ## Tecnologias 💻
 
-<div style = "display: inline_block"><br/>
+<div style = "display: inline_block user-select: none pointer-events: none"><br/>
     <image align="center" alt="html5" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <image align="center" alt="css" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <image align="center" alt="js" src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
