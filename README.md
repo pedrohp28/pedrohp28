@@ -8,8 +8,8 @@
  <div/>
     
 <div>
-<img height="180em" img src="https://github-readme-stats.vercel.app/api?username=pedrohp28&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohp28&theme=tokyonight&layout=compact"/>
+<img height="150em" img src="https://github-readme-stats.vercel.app/api?username=pedrohp28&show_icons=true&theme=tokyonight" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohp28&theme=tokyonight&layout=compact"/>
 </div>
 <div style = "display: inline_block"><br/>
     <image align="center" alt="html5" height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
