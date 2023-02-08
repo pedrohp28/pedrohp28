@@ -2,7 +2,7 @@
     <h1>
     Olá! Eu sou Pedro Henrique 👋<br>
     E seja bem vindo ao meu Github!!!
-    <image align="right" alt="808gif" height="100" width="100" src=https://media.tenor.com/ZFiDK3fsBpsAAAAC/808-hi-fi-rush.gif/>
+    
  </h1>
    
  <div/>
@@ -18,7 +18,7 @@
     <image align="center" alt="java" height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <image align="center" alt="android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
     <image align="center" alt="mysql"height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    
+    <image align="right" alt="808gif" height="100" width="100" src=https://media.tenor.com/ZFiDK3fsBpsAAAAC/808-hi-fi-rush.gif/>
 </div>
 
 ## Redes sociais 📱
