@@ -12,12 +12,14 @@
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohp28&theme=tokyonight&layout=compact"/>
 </div>
 <div style = "display: inline_block"><br/>
+    <image align="center" alt="java" height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
+    <image align="center" alt="spring-boot" height="50" width="50" src="https://img.icons8.com/officel/80/spring-logo.png"/> 
+    <image align="center" alt="docker"height="50" width="50" src="https://img.icons8.com/fluency/48/docker.png"/>
+    <image align="center" alt="mysql"height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <image align="center" alt="android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
     <image align="center" alt="html5" height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <image align="center" alt="css" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <image align="center" alt="js" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
-    <image align="center" alt="java" height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-    <image align="center" alt="android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-    <image align="center" alt="mysql"height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
 
 ## Redes sociais 📱
