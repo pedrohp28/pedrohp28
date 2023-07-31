@@ -1,10 +1,14 @@
  <div style = "display: inline_block">
-    <h1>
-    Olá! Eu sou Pedro Henrique 👋<br>
-    E seja bem vindo ao meu Github!!!
-    <image align="right" alt="808gif" height="100" width="100" src=https://media.tenor.com/ZFiDK3fsBpsAAAAC/808-hi-fi-rush.gif/>
- </h1>
-   
+   <h1>
+     Olá! Eu sou Pedro Henrique 👋<br>
+     E seja bem vindo ao meu Github!!!
+     <image align="right" alt="808gif" height="100" width="100" src=https://media.tenor.com/ZFiDK3fsBpsAAAAC/808-hi-fi-rush.gif/>
+   </h1>
+     <p>
+      Desenvolvedor Backend iniciante, procurando trocar de profissão. Especializando em linguagens de programação como
+      Java, com conhecimento em frameworks como Spring, JPA, Hibernate, entre outros. Forte conhecimento em
+      desenvolvimento ágil e noções cloud.
+     </p>
  <div/>
     
 <div>
