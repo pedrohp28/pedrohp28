@@ -5,9 +5,8 @@
      <image align="right" alt="808gif" height="100" width="100" src=https://media.tenor.com/ZFiDK3fsBpsAAAAC/808-hi-fi-rush.gif/>
    </h1>
      <p>
-      Desenvolvedor Backend iniciante, procurando trocar de profissão. Especializando em linguagens de programação como
-      Java, com conhecimento em frameworks como Spring, JPA, Hibernate, entre outros. Forte conhecimento em
-      desenvolvimento ágil e noções cloud.
+      Desenvolvedor Java backend recem formado em Análise e Desenvolvimento de Sistemas, com experiência em APIs REST e microsserviços utilizando Spring Boot. Experiente no manuseio e aplicação de banco de dados SQL e NoSQL em APIs. Possuindo grande conhecimento em metodologia ágeis, como Scrum e Kanban.
+Atualmente se especializando em cultura devops, com as ferramentas Docker, Terraform, Ansible, Gitub Actions, programação Bash e manuseio em Linux;
      </p>
  <div/>
     
